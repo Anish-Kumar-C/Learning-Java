@@ -21,4 +21,4 @@ This repository documents my Java learning journey before starting my B.Tech in 
 - Learn Java fundamentals
 - Learn OOP
 - Learn DSA
-- Build projectsqq
+- Build projects

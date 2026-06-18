@@ -1,7 +1,24 @@
-# Learning-Java
-Learning Java from scratch 
-## Completed Programs 
-- 01 : Mini Calculator
-      - Using switch case to perform basic arthiimetic operations
-- 02 : Reverse MUltiplicaton
-      - Using for loop to printing reverse multiplication table of an integer
+# Learning Java
+
+This repository documents my Java learning journey before starting my B.Tech in CSE (AI & ML).
+
+## Programs Completed
+
+1. Mini Calculator
+   - Uses switch-case
+   - Performs arithmetic operations
+
+2. Reverse Multiplication
+   - Uses loops
+   - Prints multiplication table in reverse
+
+3. Number Guessing Game
+   - Uses random numbers
+   - Uses conditional statements and loops
+
+## Goals
+
+- Learn Java fundamentals
+- Learn OOP
+- Learn DSA
+- Build projectsqq
